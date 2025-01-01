@@ -1,0 +1,10 @@
+<StandardScreen Guid="1e4cb458-2e05-4f93-a13e-70148c167cae" Res="[800 600]" ScreenColor="[255 192 192 192]" ActiveSet="33b11a3b-4361-403e-a82c-66626df9b243" Name="Start" No="0" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
+  <Checksum Value="1196478030" />
+  <Text Guid="dfa655a6-6795-4c22-9d05-559aa7edb1a3" LockedPosition="0" ControlSet="33b11a3b-4361-403e-a82c-66626df9b243" Name="" Anchor="5" X_PropType="0" X_Value="220" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="360" Height_PropType="0" Height_Value="40">
+    <State Guid="2a0dfe96-8e65-497c-9f85-95b5a978c059" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="f0c26186-5265-4ddc-8b9c-723aadd7c6b1" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="2edb681f-3f69-40cf-a1d5-ef9cd2df2cca" ID="1" Font="[0,32,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="0fa419f1-a95c-4ef5-b0ad-5cafdcff1f0e" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </Text>
+  <ControlSet Guid="33b11a3b-4361-403e-a82c-66626df9b243" Name="ControlSet" />
+</StandardScreen>
